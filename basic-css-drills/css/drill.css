@@ -1,0 +1,186 @@
+/* Drill 1 - Write your code solution below */
+body {
+    background-color: white;
+}
+
+#d1-p1{
+    color: green;
+    font-size: 24px;
+    font-family: arial;
+   
+}
+
+/* Drill 2 - Write your code solution below */
+#d2-p1{
+    font-size: 24px;
+    font-family: arial;
+}
+#d2-s1{
+    color: #F711F7;
+}
+#d2-s3{
+    color: #F711F7;
+}
+
+/* Drill 3 - Write your code solution below */
+#d3-p1{
+    font-size: 24px;
+    font-family: arial;
+}
+#d3-s1{
+    color: red;
+}
+
+#d3-s4{
+    color: goldenrod;
+}
+#d3-s6{
+    color: blue;
+}
+
+/* Drill 4 - Write your code solution below */
+#d4-p1{
+    font-size: 24px;
+    font-family: arial;
+   
+}
+
+/* Drill 5 - Write your code solution below */
+#d5-p1{
+    background-color: pink; 
+    font-size: 24px;
+    font-family: arial;
+   
+}
+#d5-div1{
+    background-color: peachpuff; 
+    font-size: 24px;
+    font-family: arial;
+   
+}
+#d5-p2{
+    background-color: lightcoral; 
+    font-size: 24px;
+    font-family: arial;
+   
+}
+
+/* Drill 6 - Write your code solution below */
+#d6-p1{
+    font-size: 24px;
+    font-family: arial;
+   
+}
+#d6-s2{
+    background-color: yellow;
+}
+
+/* Drill 7 - Write your code solution below */
+#d7-p1{
+    font-size: 24px;
+    font-family: arial;
+   
+}
+#d7-s2{
+    font-weight:bold;
+}
+#d7-s3{
+    font-weight:bold;
+  }
+
+/* Drill 8 - Write your code solution below */
+#d8-p1{
+    font-size: 24px;
+    font-family: arial;
+   
+}
+#d8-s1{
+    font-style: italic;
+  }
+  #d8-s2{
+    font-weight:bold;
+  }
+  #d8-s3{
+    font-style: italic;
+  }
+
+/* Drill 9 - Write your code solution below */
+#d9-p1{
+    font-size: 24px;
+    font-family: arial;
+}
+#d9-s1{
+    text-decoration: underline;
+  }
+  #d9-s3{
+    text-decoration: underline;
+  }
+
+/* Drill 10 - Write your code solution below */
+#d10-p1{
+    font-size: 24px;
+    font-family: arial;
+}
+#d10-s4{
+   color: blue;
+  }
+  #d10-s1{
+    text-decoration: underline;
+  }
+  #d10-a2{
+    text-decoration: underline;
+    color: blue;
+  }
+  #d10-s3{
+    text-decoration: underline;
+  }
+  #d10-a3{
+    color: blue;  
+}
+
+/* Drill 11 - Write your code solution below */
+#d11-p1{
+    font-size: 60px;
+    font-family: arial;
+}
+#d11-p2{
+    font-size: 24px;
+    font-family: arial;
+}
+
+/* Drill 12 - Write your code solution below */
+#d12-div2{
+    text-align: right;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#d12-div4{
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#d12-div3{
+    text-align: left;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Drill 13 - Write your code solution below */
+#d13-div2{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#d13-div3{
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#d13-div4{
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
