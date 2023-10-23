@@ -1,0 +1,83 @@
+#palette-1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+}
+#p1-c1{
+    background-color: #505c7c;
+    padding: 24px;
+    font-family: Impact;
+    color: black;
+}
+#p1-c2{
+    background-color: #282e3c;
+    padding: 24px;
+    font-family: Impact;
+    color: white;
+}
+#p1-c3{
+    background-color: #242424;
+    padding: 24px;
+    font-family: Impact;
+    color: white;
+}
+#p1-c4{
+    background-color: #988829;
+    padding: 24px;
+    font-family: Impact;
+    color: white;
+}
+#p1-c5{
+    background-color: #fdff00;
+    padding: 24px;
+    font-family: Impact;
+    color: black;
+}
+
+#palette-2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+#p2-c1{
+    background-color: #b00000;
+    padding: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#p2-c2{
+    background-color: #c50000;
+    padding: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#p2-c3{
+    background-color: #d20000;
+    padding: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#palette-3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}  
+
+#p3-c1{
+    background-color: #b3cde0;
+    padding: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#p3-c2{
+    background-color: #005b96;
+    padding: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#p3-c3{
+    background-color: #011f4b;
+    padding: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
